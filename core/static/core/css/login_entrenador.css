@@ -1,0 +1,26 @@
+/* Solo cambia los colores; lo demás viene de login.css */
+
+.logo {
+    color: #ff7a00;
+}
+
+.login-card h2 {
+    color: #ffa14a;
+}
+
+.login-card input:focus {
+    outline: 2px solid #ff7a00;
+}
+
+.btn-login {
+    background: #ff7a00;
+    color: #fff;
+}
+
+.btn-login:hover {
+    background: #e06a00;
+}
+
+.registro a {
+    color: #ff7a00;
+}
